@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>images/3dcc6a36acaf2edd67663d1e8a1001e93b0193f3.jpg</file>
+    <file>images/7f6d7fdf8db1cb132d1bc0e7da54564e93584b1d.jpg</file>
+    <file>images/08d34c224f4a20a4cee5493097529822700ed097.jpg</file>
+    <file>images/17a515a85edf8db1ae6b8e900e23dd54544e74c6.jpg</file>
+    <file>images/b9da9f096b63f62465b3cbf78044ebf8184ca399.jpg</file>
+    <file>images/dae6b6dda144ad344b735b7cd7a20cf433ad8546.jpg</file>
+  </qresource>
+</RCC>
